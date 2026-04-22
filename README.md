@@ -1,7 +1,7 @@
 # Smart Campus Sensor & Room Management API
 **Name:** Lakindu Chehan Rathugamage
 **ID:** 20232736 / W2120616
-**Module:** 5COSC022W – Client-Server Architectures  
+**Module:** 5COSC022C – Client-Server Architectures  
 **Coursework:** Smart Campus Sensor & Room Management API  
 **Technology Stack:** Java 17, JAX-RS (Jersey), Maven, Apache Tomcat 9  
 
